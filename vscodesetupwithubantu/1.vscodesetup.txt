@@ -13,19 +13,19 @@ Accounts > turn on setting sync > all must be checked (select all)
 turn on setting sync > signing and turn on > signing with github > authorize >click the check box > open visual stdio > open
 check your name github is present in account
 file > open file/open folder
-down arrows represents we r in windows 
-keep explorer, search sourcecontrol, extension
+down arrows represents we are in windows
+keep explorer, search sourcecontrol, extension in task bar
 windows > local c > users > .vscode > extentions > select all and delete them
 new brown color vscode will be displayed
 extensions are like mobile apps we need it to add specific tasks
  	1 HackTheBox (for color and theme screens
 	2 prettiter (code formatting for all files)
 	3 prettify json (code formatting for json files)
-	4 remote explorer (to connect vscode to ubantu)
+	4 remote explorer (to connect vscode to ubuntu)
 	5 javascript (ES6)(long codes into short)
 	6 live server by ritwick dey (helps in running files without python serever help)
 	7 vsCode-Icons (click on vscode icons)
 	8 remote ssh
 	9 remote ssh : configuration .............
 go to remote explorer > go to ssh > select '+' icon and add ssh sakina@192.168.0.104 > enter >  reload > ssh will connect (linux)
-clone a repo in ubantu > check folder it in vs code > and right click it and select integral terminal > we get into report.
+clone a repo in ubuntu > check folder it in vs code > and right click it and select integral terminal > we get into report.
